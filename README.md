@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakhiwizikey
+- 👋 Hi, I’m Rakhi Mishra
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning TypeScript, NextJS , GraphQL and EmotionJS
 - 💞️ I’m looking to collaborate on ...
